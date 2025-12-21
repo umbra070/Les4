@@ -28,7 +28,7 @@ public class Main {
         System.out.println("\n\rEx2\n\r");
         System.out.println("\n\rEx2\n\r");
         if(clientOS == 0 && clientDeviceYear >= 2015){
-            System.out.println("Установите версию приложения для iOS по ссылке");
+            System.out.println("Установите версию приложения для iOS по ссылке ");
         }else if(clientOS == 1 && clientDeviceYear >= 2015){
             System.out.println("Установите версию приложения для Android по ссылке");
         }else if(clientOS == 0 && clientDeviceYear < 2015){
